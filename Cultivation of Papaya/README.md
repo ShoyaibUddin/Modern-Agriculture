@@ -47,5 +47,5 @@
 
 ## Next Part
 
-- [সার প্রয়োগ নির্দেশিকা](https://github.com/ShoyaibUddin/Modern-Agriculture/blob/c4bafcd08cec3fdd9bfae8edf17747baeaca6480/Cultivation%20of%20Papaya/fertilizer-application-guidelines.md)
+- [সার প্রয়োগ নির্দেশিকা](https://github.com/ShoyaibUddin/Modern-Agriculture/blob/main/Cultivation%20of%20Papaya/fertilizer-application-guidelines.md)
 - [পেঁপের বিভিন্ন রোগ ও লক্ষণ](https://github.com/ShoyaibUddin/Modern-Agriculture/blob/c4bafcd08cec3fdd9bfae8edf17747baeaca6480/Cultivation%20of%20Papaya/disease.md)
